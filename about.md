@@ -4,21 +4,13 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+## _about_
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>DJ ABell has been sharing his love of music from behind the decks for more than 20 years. Blending a variety of styles from jazz and soul, to house and techno, his sets focus on the power of music to bring people together. </p>
 
-<h2>Skills</h2>
+<p>Currently you can catch him live every Monday night at 6PM PST on <a href="https://shadypinesradio.com/" target="_blank">Shady&nbsp;Pines&nbsp;Radio</a> as host and producer of <a href="https://redcircle.com/shows/curated-cuts" target="_blank">Curated&nbsp;Cuts</a>, as well as various live events in his hometown of Portland, Oregon.</p>
+
+<!-- <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
@@ -34,12 +26,14 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>MySQL - MongoDB</li>
 	<li>Scrum and Kanban</li>
 	<li>TDD e Continuous Integration</li>
-</ul>
+</ul> -->
+<br>
+<br>
 
-<h2>Projects</h2>
+#### _site acknowledgements_
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<i class="fa-solid fa-person-digging"></i> ‎ Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://nova.app/" target="_blank">Nova</a>
+<br>
+<i class="fa-solid fa-person-shelter"></i> ‎ ‎ Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
+<br>
+<i class="fa-regular fa-id-card"></i> ‎ ‎ Indigo Theme by <a class="link" href="https://github.com/sergiokopplin/indigo" target="_blank">Kopplin
