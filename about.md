@@ -8,7 +8,7 @@ layout: page
 
 ## _about_
 
-<p>DJ ABell has been sharing his love of music from behind the decks for more than 20 years. Blending a variety of styles from jazz and soul, to house and techno, his sets focus on the power of music to bring people together. </p>
+<p>dj abell has been sharing his love of music from behind the decks for more than 20 years. Blending a variety of styles from jazz and soul, to house and techno, his sets focus on the power of music to bring people together. </p>
 
 <p>Currently you can catch him live every Monday night at 6PM PST on <a href="https://shadypinesradio.com/" target="_blank">Shady Pines Radio</a> as host and producer of <a href="https://redcircle.com/shows/curated-cuts" target="_blank">Curated&nbsp;Cuts</a>, as well as various live events in his hometown of Portland, Oregon.</p>
 
