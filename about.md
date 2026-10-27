@@ -12,6 +12,24 @@ layout: page
 
 <p>Currently you can catch him live Monday from 6-7PM PST on <a href="https://shadypinesradio.com/" target="_blank">Shady Pines Radio</a>, alternating Sundays from 4-6PM PST on <a href="https://freeformportland.org" target="_blank">KFFP Freeform Portland</a>, and at various live events in his hometown of Portland, Oregon.</p>
 
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+	calendar.schedulingButton.load({
+	  url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1jVMq9naPwokU4YLqKb26_4gsx9OlLBLgGh320ww55CaBBKUvbnc2tpJNDcyfR7t1ZeIj137Ie?gv=true',
+	  color: '#616161',
+	  label: "let's dance",
+	  target,
+	});
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
+
 <!-- <h2>Skills</h2>
 
 <ul class="skill-list">
